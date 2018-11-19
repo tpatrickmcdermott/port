@@ -43,10 +43,10 @@ Library contains a searchable index of AB publications (whitepapers, blog postin
 
 #### [AB Institutional Investors](https://www.alliancebernstein.com/institutions/americas/home.htm?locale=us&lang=en)
 
-A subsite home page which functions as the entry portal for Institutional Investor clients and advisors
+A site segment home page which functions as the entry portal for Institutional Investor clients and advisors.
 
 #### [Our Firm: Overview](https://www.alliancebernstein.com/corporate/our-firm/about-us.htm?locale=us)
 
-Our firm is a subsite with a collection of pages regarding Corporate information, Investor Relations.
+"Our Firm" is a site segment with pages regarding Corporate Information, Investor Relations.
 
 ---
