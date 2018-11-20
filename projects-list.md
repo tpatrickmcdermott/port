@@ -41,9 +41,15 @@ Library contains a searchable index of AB publications (whitepapers, blog postin
 * Meta-data driven
 * Heavily componentized. Much of the componentization occurs on the front-end (built with React.js)
 
+#### [AB Retail Investors](https://www.alliancebernstein.com/investments/us/home.htm)
+
+Segment entry point for Retail products website
+
+* Somewhat more complex example of product picker (presented as the hero component)
+
 #### [AB Institutional Investors](https://www.alliancebernstein.com/institutions/americas/home.htm?locale=us&lang=en)
 
-A site segment home page which functions as the entry portal for Institutional Investor clients and advisors.
+Segment entry point for Institutional Investor clients and advisors.
 
 #### [Our Firm: Overview](https://www.alliancebernstein.com/corporate/our-firm/about-us.htm?locale=us)
 
